@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("img/bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+nav {
+    height: auto;
+    width: 100%;
+    background-color: #333333;
+    padding: 10px 0px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    }
+li {
+    margin-right: 15px;
+}
+a {
+    color: white;
+    text-decoration: none;
+    padding: 0px 20px;
+}
+a:hover {
+    color: #ff0000;
+}
